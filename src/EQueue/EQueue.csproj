@@ -91,6 +91,7 @@
     <Compile Include="Clients\Producers\QueueAverageSelector.cs" />
     <Compile Include="Clients\Producers\QueueHashSelector.cs" />
     <Compile Include="Configurations\ConfigurationExtensions.cs" />
+    <Compile Include="Protocols\MessageStatus.cs" />
     <Compile Include="Protocols\RemoveQueueOffsetInfoRequest.cs" />
     <Compile Include="Protocols\TopicConsumeInfo.cs" />
     <Compile Include="Protocols\DisableQueueRequest.cs" />
